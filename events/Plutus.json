@@ -7094,7 +7094,7 @@
     "API_CONFIG": {
       "BROWSER_API": "KEKKA_PLAYER",
       "FULLY_HIDE_API": true,
-      "FORCE_GAME_LANGUAGE": true,
+      "FORCE_GAME_LANGUAGE": false,
       "ENFORCE_HW_ACCEL": true,
       "USE_3D": false,
       "USE_PROXY": false,
